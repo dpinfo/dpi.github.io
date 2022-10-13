@@ -1,2 +1,2 @@
-# dpi.github.io
+# dpinfo.github.io
 DPI Pages
